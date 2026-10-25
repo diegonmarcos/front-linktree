@@ -1,4 +1,0 @@
-a_Portals/linktree
-a_Portals/linktree_icon-view
-a_Portals/linktree_mindmap
-a_Portals/linktree_pixel-world
