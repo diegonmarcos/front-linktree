@@ -1,0 +1,50 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "z-archived_front-linktree",
+  "label": "z-archived_front-linktree",
+  "code": "8.1.2.4",
+  "kind": "repo",
+  "variant": "archived",
+  "description": "Linktree portal (split from diegonmarcos.github.io, #1072)",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/z-archived_front-linktree",
+  "developer": "Z-archived",
+  "farm": "8.Archived",
+  "breadcrumb": [
+    {
+      "code": "8",
+      "kind": "area",
+      "label": "Archived",
+      "icon": "📦"
+    },
+    {
+      "code": "8.1",
+      "kind": "project",
+      "label": "Z-archived",
+      "icon": "📦"
+    },
+    {
+      "code": "8.1.2",
+      "kind": "family",
+      "label": "Front",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "z-archived-___",
+    "code": "8.0",
+    "url": "https://github.com/diegonmarcos/z-archived-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── 0_deployer (submodule)",
+    "└── 0_hub/",
+    "    └── z-archived-___ (submodule)"
+  ],
+  "old_names": [
+    "front-linktree"
+  ],
+  "history": "Superseded 2026-10-27 (#1217): linktree sources moved into cloud-me-pub-profiles-_lnktree (Lnktree); renamed z-archived_front-linktree. Originally split from diegonmarcos.github.io (#1072)."
+}
